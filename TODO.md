@@ -1,0 +1,4 @@
+- [ ] Change so that there's more boilerplate declarations so that world objects are global and can be accessed from anywhere
+- [ ] Create assets from scratch for player, platforms, npc's, guns
+- [ ] Add functionality for the player to hold a gun and shoot with it
+- [ ] Enemies that go to player general location within distance and then shoot toward player, looking for gaps within platforms so that their bullets can reach the player
