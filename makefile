@@ -9,7 +9,7 @@ LIBS = -lglfw -lGL -lGLEW -lSOIL
 SOURCES = main.cpp
 
 # Output executable
-EXECUTABLE = warground
+EXECUTABLE = wargroundz
 
 # Build rules
 all: $(EXECUTABLE) run
